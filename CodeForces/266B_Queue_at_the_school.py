@@ -12,3 +12,10 @@ s = input()
 for i in range(t):
     s=s.replace('BG','GB')
 print(s)
+
+#trick for for loop
+#try this
+for in range '_'*t:
+    #method
+    
+#Happy coding
