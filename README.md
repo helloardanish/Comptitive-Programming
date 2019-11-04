@@ -1,5 +1,5 @@
 # Comptitive-Programming
-readme-edit
-#hehe it is really fun changing the code
-#it is just for fun
-master
+## I tried programming because i liked it.
+## I started doing competitive programming because I loved it.
+## Mostly problems from codeforces
+### <Happy Coding />
