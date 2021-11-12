@@ -3,7 +3,7 @@
 
 ## Figures
 
-![complexity images](/images/complexity.png)
+![complexity images](images/complexity.png)
 
 ### Examples
 
