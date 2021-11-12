@@ -18,9 +18,13 @@ C = 1 + 8
 if program takes
 
 1 seconds to compute 10 elements : 10^1
+
 2 seconds to compute 10 elements : 10^2
+
 3 seconds to compute 10 elements : 10^3
+
 4 seconds to compute 10 elements : 10^4
+
 ......
 
 
