@@ -74,3 +74,4 @@ int main() {
 
 // By using multiple technique we can achieve better results also one algorithms can be better but  never best. 
 // As someone in upcoming days may come up with new algorithms. So always use the best technique you can use.
+// Any algorithm can be best for today but never for tomorrow just keep this in mind.
