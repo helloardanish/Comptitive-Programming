@@ -10,7 +10,8 @@
 ## Complexity O(1)
 
 A = B + C
-c = 1 + 8
+
+C = 1 + 8
 
 ## Complexity O(logn)
 
